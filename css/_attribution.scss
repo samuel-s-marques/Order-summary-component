@@ -1,0 +1,13 @@
+.attribution {
+	font-size: 11px;
+	text-align: center;
+
+	a {
+		color: hsl(245, 75%, 52%);
+		text-decoration: none;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}

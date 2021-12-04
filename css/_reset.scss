@@ -1,0 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+*, button, input {
+	font-family: 'Red Hat Display', sans-serif;
+}
+
+body {
+	background-image: url("/images/pattern-background-desktop.svg");
+	background-repeat: repeat-x;
+	background-color: hsl(225, 100%, 94%);
+}

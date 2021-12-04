@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/samuel-s-marques/Order-summary-component](https://github.com/samuel-s-marques/Order-summary-component)
+- Live Site URL: [https://samuel-s-marques.github.io/Order-summary-component/](https://samuel-s-marques.github.io/Order-summary-component/)
 
 ## My process
 
